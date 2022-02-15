@@ -55,5 +55,5 @@ def running(dau_vao):
 
 if __name__ == '__main__':
 
-    running('tudien.bin')
+    running(sys.argv[1])
     pass
